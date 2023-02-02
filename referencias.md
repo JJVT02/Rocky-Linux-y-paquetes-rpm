@@ -1,1 +1,1 @@
- He entrado en la pagina oficial de rockylinux `https://docs.rockylinux.org/`
+ He entrado en la pagina oficial de rockylinux: `https://docs.rockylinux.org/`
